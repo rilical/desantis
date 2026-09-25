@@ -1,5 +1,7 @@
 # Desantis
 
+Inspired by Mark Desantis’s teachings.
+
 A general-purpose agent skill for connecting rough thoughts into coherent,
 genuinely different alternatives. For writing, projects, decisions, or any idea
 with a destination and a missing middle.
