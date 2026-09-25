@@ -1,0 +1,4 @@
+interface:
+  display_name: "Desantis"
+  short_description: "Connect rough thoughts into distinct alternatives"
+  default_prompt: "Use $desantis to connect my rough thoughts above into three coherent alternatives, preserving my goal and constraints."
